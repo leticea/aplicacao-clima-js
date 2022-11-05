@@ -30,7 +30,7 @@ Aula do canal [Matheus Battisti](https://www.youtube.com/watch?v=VS8EBgPwsSU)
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- Entre no repositório e clique duas vezes no arquivo index.html.
+- Entre no repositório e click duas vezes no arquivo index.html.
 
 ## 🤔 Como contribuir
 
